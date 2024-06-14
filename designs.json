@@ -117,6 +117,43 @@
                     },
                     "#text": "Andriy Gryban"
                 }
+            },
+            {
+                "@attributes": {
+                    "name": "Card Activity",
+                    "id": "4",
+                    "category": "Cards"
+                },
+                "htmlCode": {
+                    "@attributes": {
+                        "language": "HTML"
+                    },
+                    "#text": "<div class='blog-card'><div class='meta'><div class='photo'><img src='https://akvatour.eu/static/media/redd-f-5U_28ojjgms-unsplash.3ec1e06f363519bc2238.jpg' alt=''></div></div><div class='description'><h1 id='usluge'>Usluge za podjetja</h1><h2 id='uslugeH2'>sestanki, apartmaji, poslovna kosila.</h2><p id='uslugeP'> Ponujamo najboljše doživetje za vaše delavce na slovenski obali. Zagotavljamo vse za sejme, podjetniška srečanja in poslovna kosila.</p></div></div>"
+                },
+                "cssCode": {
+                    "@attributes": {
+                        "language": "CSS"
+                    },
+                    "#text": "body { font-family:montserrat,sans-serif; } * { font-family: montserrat,sans-serif; } body { background-color: #faf9f6; background-color: #faf9f6; font-family: montserrat,sans-serif; margin: 0; max-width: 100vw; padding: 0; } html { background-color: #faf9f6; background-color: #faf9f6; overflow-x: hidden; scroll-behavior: smooth; scrollbar-color: #9b9b9bb3 #0000; scrollbar-width: thin; } :root { --secondary-color: #2e3c40; --primary-color: #e2ba5a; --white-color: #faf9f6; } .blog-card { background: #faf9f6; border: none; border-radius: 0; box-shadow: 0 3px 7px -1px #0000001a; -webkit-clip-path: polygon(0 0,100% 5%,100% 94%,0 100%); clip-path: polygon(0 0,100% 5%,100% 94%,0 100%); display: flex; flex-direction: column; font-family: sans-serif; line-height: 1.4; margin: 2rem 4rem; overflow: hidden; width: clamp(300px,40%,600px); z-index: 0; } .meta  { height: 200px; position: relative; z-index: 0; } .description  { align-content: center; background-color: #faf9f6; display: flex; flex-direction: column; max-height: 100%; min-height: 220px; padding: 2rem 2rem 3rem; position: relative; transition: .25s ease-in-out; z-index: 1; } .blog-card:hover .description  { transform: translateY(-1rem); } h1 { max-width: 100vw; overflow: hidden; } .description h1  { color: #2e3c40; font-size: 2rem; line-height: 1.2; margin: 0; } h2 { max-width: 100vw; overflow: hidden; } .description h2  { color: #e2ba5a; font-size: 1rem; font-weight: 350 italic; margin-top: 5px; text-transform: uppercase; } .blog-card p { color: #2e3c40; font-weight: 450; margin: 1rem 0 0; position: relative; } p:first-of-type  { margin-top: 1.25rem; } .photo img  { height: 300px; object-fit: cover; transition: .25s ease-in-out; width: 100%; } .blog-card:hover .photo img  { transform: scale(1.1) rotate(2deg); }"
+                },
+                "jsCode": {
+                    "@attributes": {
+                        "language": "JavaScript"
+                    },
+                    "#text": "console.log('Form')"
+                },
+                "date": {
+                    "@attributes": {
+                        "format": "dd.mm.yyyy"
+                    },
+                    "#text": "15.6.2024"
+                },
+                "author": {
+                    "@attributes": {
+                        "email": "jane.doe@example.com"
+                    },
+                    "#text": "Andriy Gryban"
+                }
             }
         ]
     }
