@@ -29,7 +29,7 @@
                     "@attributes": {
                         "language": "JavaScript"
                     },
-                    "#text": "console.log('Hello World')"
+                    "#text": ""
                 },
                 "date": {
                     "@attributes": {
@@ -103,7 +103,7 @@
                     "@attributes": {
                         "language": "JavaScript"
                     },
-                    "#text": "console.log('Form')"
+                    "#text": ""
                 },
                 "date": {
                     "@attributes": {
@@ -214,7 +214,7 @@
                     "@attributes": {
                         "language": "JavaScript"
                     },
-                    "#text": "console.log('Form')"
+                    "#text": ""
                 },
                 "date": {
                     "@attributes": {
