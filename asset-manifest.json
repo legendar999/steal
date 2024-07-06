@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.eaac41b2.css",
+    "main.css": "/static/css/main.9f23ddfa.css",
     "main.js": "/static/js/main.343c0ed1.js",
     "static/media/design.gribanica.eu_stealer.png": "/static/media/design.gribanica.eu_stealer.8557f48e48aae10af5e9.png",
     "static/media/jpg": "/static/media/963006959fadd3a9fdcfa557e5469cf9.dcee72c40edeb16407e5.jpg",
@@ -8,11 +8,11 @@
     "static/media/logo-stealer.png": "/static/media/logo-stealer.94cc50f8eecad9fb3913.png",
     "static/media/logo.png": "/static/media/logo.1ecd17101a8b49d81853.png",
     "index.html": "/index.html",
-    "main.eaac41b2.css.map": "/static/css/main.eaac41b2.css.map",
+    "main.9f23ddfa.css.map": "/static/css/main.9f23ddfa.css.map",
     "main.343c0ed1.js.map": "/static/js/main.343c0ed1.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaac41b2.css",
+    "static/css/main.9f23ddfa.css",
     "static/js/main.343c0ed1.js"
   ]
 }
