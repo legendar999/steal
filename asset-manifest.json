@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f1cc6ef.css",
-    "main.js": "/static/js/main.9c18201e.js",
-    "static/media/jpg": "/static/media/963006959fadd3a9fdcfa557e5469cf9.dcee72c40edeb16407e5.jpg",
-    "static/media/Снимок экрана 2024-07-04 031015.png": "/static/media/Снимок экрана 2024-07-04 031015.f7cf1e93035861f8a33d.png",
-    "static/media/logo-black.png": "/static/media/logo-black.55a54f62c65127520ab7.png",
-    "static/media/logo-stealer.png": "/static/media/logo-stealer.94cc50f8eecad9fb3913.png",
-    "static/media/logo.png": "/static/media/logo.1ecd17101a8b49d81853.png",
+    "main.css": "/static/css/main.250975f1.css",
+    "main.js": "/static/js/main.f2d517a4.js",
+    "static/js/453.433adbff.chunk.js": "/static/js/453.433adbff.chunk.js",
+    "static/media/logo (2).png": "/static/media/logo (2).614c1da7ea147fd05c48.png",
+    "static/media/gribanica.png": "/static/media/gribanica.3a0dcdbcd72d22ff649c.png",
+    "static/media/design-stealer.webp": "/static/media/design-stealer.5a072fa8258a496128b7.webp",
+    "static/media/AKVAvent_LOGO_R_-01.png": "/static/media/AKVAvent_LOGO_R_-01.af31f390fcc5887f94e6.png",
+    "static/media/collage.png": "/static/media/collage.d7c617c9bf619aaa5576.png",
+    "static/media/instagram (1).png": "/static/media/instagram (1).bc603acad2a8cb3bd098.png",
+    "static/media/Screenshot_1.png": "/static/media/Screenshot_1.2696fe5f551314901009.png",
+    "static/media/github.png": "/static/media/github.05f6c17b8cd04c28456f.png",
     "index.html": "/index.html",
-    "main.4f1cc6ef.css.map": "/static/css/main.4f1cc6ef.css.map",
-    "main.9c18201e.js.map": "/static/js/main.9c18201e.js.map"
+    "static/media/iconmonstr-arrow-11.svg": "/static/media/iconmonstr-arrow-11.cb21533bcfaefcfadb75e4151e355751.svg",
+    "main.250975f1.css.map": "/static/css/main.250975f1.css.map",
+    "main.f2d517a4.js.map": "/static/js/main.f2d517a4.js.map",
+    "453.433adbff.chunk.js.map": "/static/js/453.433adbff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f1cc6ef.css",
-    "static/js/main.9c18201e.js"
+    "static/css/main.250975f1.css",
+    "static/js/main.f2d517a4.js"
   ]
 }
