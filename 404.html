@@ -1,20 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
-    <meta charset="utf-8">
-    <title>Redirecting...</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Stealer by Grybanica</title>
+</head>
+
+<body>
     <script>
-        (function() {
-            // Store the original path in sessionStorage
-            sessionStorage.redirect = location.pathname + location.search + location.hash;
-            // Check if there's a path, and it's not just the root '/'
-            if (location.pathname.length > 1) {
-                // Redirect to the root page
-                window.location.href = location.origin + '/index.html';
+        (function () {
+            // Only perform redirection if we're on the 404 page
+            if (window.location.pathname === '/404.html') {
+                // Use the original path as a hash fragment for SPA routing
+                window.location.replace('/#' + window.location.href.split('/').pop());
             }
         })();
     </script>
-</head>
-<body>
 </body>
+
 </html>
