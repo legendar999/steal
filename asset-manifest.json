@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4346d830.css",
-    "main.js": "/static/js/main.6994d077.js",
+    "main.css": "/static/css/main.b37d4a7d.css",
+    "main.js": "/static/js/main.dac95282.js",
     "static/media/design.gribanica.eu_stealer.png": "/static/media/design.gribanica.eu_stealer.8557f48e48aae10af5e9.png",
     "static/media/jpg": "/static/media/963006959fadd3a9fdcfa557e5469cf9.dcee72c40edeb16407e5.jpg",
     "static/media/logo-black.png": "/static/media/logo-black.55a54f62c65127520ab7.png",
     "static/media/logo-stealer.png": "/static/media/logo-stealer.94cc50f8eecad9fb3913.png",
     "static/media/logo.png": "/static/media/logo.1ecd17101a8b49d81853.png",
     "index.html": "/index.html",
-    "main.4346d830.css.map": "/static/css/main.4346d830.css.map",
-    "main.6994d077.js.map": "/static/js/main.6994d077.js.map"
+    "main.b37d4a7d.css.map": "/static/css/main.b37d4a7d.css.map",
+    "main.dac95282.js.map": "/static/js/main.dac95282.js.map"
   },
   "entrypoints": [
-    "static/css/main.4346d830.css",
-    "static/js/main.6994d077.js"
+    "static/css/main.b37d4a7d.css",
+    "static/js/main.dac95282.js"
   ]
 }
